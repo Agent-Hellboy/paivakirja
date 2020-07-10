@@ -1,11 +1,11 @@
- _ __     __ _  (_) __   __   __ _  | | __ (_)  _ __    (_)   __ _ 
- | '_ \   / _` | | | \ \ / /  / _` | | |/ / | | | '__|   | |  / _` |
- | |_) | | (_| | | |  \ V /  | (_| | |   <  | | | |      | | | (_| |
- | .__/   \__,_| |_|   \_/    \__,_| |_|\_\ |_| |_|     _/ |  \__,_|
- |_|                                                   |__/         
+        _ __     __ _  (_) __   __   __ _  | | __ (_)  _ __    (_)   __ _ 
+        | '_ \   / _` | | | \ \ / /  / _` | | |/ / | | | '__|   | |  / _` |
+        | |_) | | (_| | | |  \ V /  | (_| | |   <  | | | |      | | | (_| |
+        | .__/   \__,_| |_|   \_/    \__,_| |_|\_\ |_| |_|     _/ |  \__,_|
+        |_|                                                   |__/         
 
 
-        A cmd tool for diary,journal(dev-journal),logbook , and register
+  A cmd tool for diary,journal(dev-journal),logbook , and register
 
 
 
@@ -68,19 +68,17 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 open terminal and run paivakirja -m=notes/journal inside your project directory
 
-        
+              _ __     __ _  (_) __   __   __ _  | | __ (_)  _ __    (_)   __ _ 
+          | '_ \   / _` | | | \ \ / /  / _` | | |/ / | | | '__|   | |  / _` |
+          | |_) | | (_| | | |  \ V /  | (_| | |   <  | | | |      | | | (_| |
+          | .__/   \__,_| |_|   \_/    \__,_| |_|\_\ |_| |_|     _/ |  \__,_|
+          |_|                                                   |__/         
 
-    _ __     __ _  (_) __   __   __ _  | | __ (_)  _ __    (_)   __ _ 
-| '_ \   / _` | | | \ \ / /  / _` | | |/ / | | | '__|   | |  / _` |
-| |_) | | (_| | | |  \ V /  | (_| | |   <  | | | |      | | | (_| |
-| .__/   \__,_| |_|   \_/    \__,_| |_|\_\ |_| |_|     _/ |  \__,_|
-|_|                                                   |__/         
        
-       
-       choose one of the option 
-         1 getPrevious Notes 
-         2 Insert newNotes 
-         3 Query NotesbyDate
-         
+   choose one of the option 
+     1 getPrevious Notes 
+     2 Insert newNotes 
+     3 Query NotesbyDate
+
 
 
