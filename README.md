@@ -75,10 +75,10 @@ open terminal and run paivakirja -m=notes/journal inside your project directory
           |_|                                                   |__/         
 
        
-   choose one of the option 
-     1 getPrevious Notes 
-     2 Insert newNotes 
-     3 Query NotesbyDate
+         choose one of the option 
+                 1 getPrevious Notes 
+                 2 Insert newNotes 
+                 3 Query NotesbyDate
 
 
 
